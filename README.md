@@ -1,5 +1,5 @@
 # Projeto prova disciplina faculdade
-![image](C:\Users\DELL\OneDrive\Documentos\Projeto\projeto-estacio\assets\teste readme.jpg)
+![teste readme](https://github.com/lucassverass/projeto-estacio/assets/56053842/bbb052ff-5442-44ba-a710-4b0c38647240)
 
 ## Ferramentas utilizadas:
 
